@@ -1,0 +1,3 @@
+C:/Users/Mai Tran/Desktop/CST8152_Compiler/Week3/A12/CompilerA12/CompilerA12/codeA12/out/build/x64-Debug/CMakeFiles/Kao.dir
+C:/Users/Mai Tran/Desktop/CST8152_Compiler/Week3/A12/CompilerA12/CompilerA12/codeA12/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Mai Tran/Desktop/CST8152_Compiler/Week3/A12/CompilerA12/CompilerA12/codeA12/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
